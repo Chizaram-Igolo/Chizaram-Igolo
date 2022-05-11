@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+### About Me
+
+I have over 5 years of experience interpreting business ideas and building turn-key feature-rich elegantly-interfaced applications. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
+
+My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a major redesign soon!)
+
+- 🔭 I’m currently working on a language learning platform - something similar to Duolingo, but focusing on lesser known languages. I'm also in the process of building my own UI Libraries for Front-End Web Development to help bootstrap applications faster.
 
 <!--
 **Chizaram-Igolo/Chizaram-Igolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
