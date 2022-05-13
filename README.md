@@ -2,6 +2,8 @@
 
 ### About Me
 
+<a href="https://stackoverflow.com/users/11838606/chizaram"><img src="https://stackoverflow.com/users/flair/11838606.png" width="208" height="58" alt="profile for Chizaram at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chizaram at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 I have over 5 years of experience interpreting business ideas and building turn-key feature-rich elegantly-interfaced applications. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
 
 My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a major redesign soon!)
