@@ -37,9 +37,9 @@ My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a ma
 
 ### :fire: My Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chizaram-Igolo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chizaram-Igolo&theme=merko)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chizaram-Igolo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chizaram-Igolo&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Chizaram-Igolo/Chizaram-Igolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
