@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Chizaram-Igolo&style=flat-square&color=blue" alt="" /> 
 <a href="https://www.buymeacoff.ee/chizaramigc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-I have over 3 years of professional experience interpreting business ideas and building turn-key feature-rich elegantly-interfaced applications. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
+I have over 3 years of professional experience interpreting business ideas and building modern-looking and accessible applications with varying range of features. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
 
 My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a major redesign soon!)
 
