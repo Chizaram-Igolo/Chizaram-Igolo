@@ -33,6 +33,34 @@ My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a ma
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+--- 
+
+### 📸 Screenshots of Previous work:  
+
+## Conjour Snacks | Template
+
+Web template built with plain HTML, CSS and JavaScript.
+
+![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/conjour-snack-thumb.jpg?raw=true) 
+
+## Mmuo | SaaS
+
+Language learning platform similar to Duolingo.
+
+![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/mmuo-thumb.jpg?raw=true) 
+
+## Agro-Loan Portal | SaaS 
+
+Web portal with account management system and ERP system.
+
+![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/derdc-thumb.jpg?raw=true) 
+
+## Hotel Reservation | E-Commerce 
+
+Web portal with account management system and ERP system.
+
+![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/lch-thumb.jpg?raw=true) 
+
 ---
 
 ### :fire: My Stats : 
