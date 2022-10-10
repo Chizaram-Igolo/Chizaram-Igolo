@@ -53,7 +53,7 @@ Language learning platform similar to Duolingo.
 
 Web portal with account management system and ERP system.
 
-![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/derdc-thumb.jpg?raw=true) 
+<a href="https://github.com/Chizaram-Igolo/agro-loan" target="_blank">![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/derdc-thumb.jpg?raw=true)</a>
 
 ## Hotel Reservation | E-Commerce 
 
