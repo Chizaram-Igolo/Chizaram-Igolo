@@ -41,13 +41,13 @@ My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a ma
 
 Web template built with plain HTML, CSS and JavaScript.
 
-<a href='google.com'>![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/conjour-snack-thumb.jpg?raw=true)</a> 
+<a href="https://github.com/Chizaram-Igolo/Conjour-Snack-Website-Template" target="_blank">![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/conjour-snack-thumb.jpg?raw=true)</a> 
 
 ## Mmuo | SaaS
 
 Language learning platform similar to Duolingo.
 
-![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/mmuo-thumb.jpg?raw=true) 
+<a href="https://github.com/Chizaram-Igolo/mmuo" target="_blank">![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/mmuo-thumb.jpg?raw=true)</a> 
 
 ## Agro-Loan Portal | SaaS 
 
