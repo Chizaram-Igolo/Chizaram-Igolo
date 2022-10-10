@@ -41,7 +41,7 @@ My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a ma
 
 Web template built with plain HTML, CSS and JavaScript.
 
-![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/conjour-snack-thumb.jpg?raw=true) 
+<a href='google.com'>![alt text](https://github.com/Chizaram-Igolo/chizaram-igolo.github.io/blob/main/assets/imgs/thumbs/conjour-snack-thumb.jpg?raw=true)</a> 
 
 ## Mmuo | SaaS
 
