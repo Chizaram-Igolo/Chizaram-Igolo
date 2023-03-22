@@ -6,7 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=Chizaram-Igolo&style=flat-square&color=blue" alt="" /> 
 <a href="https://www.buymeacoff.ee/chizaramigc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-I have over 3 years of professional experience interpreting business ideas and building modern-looking and accessible applications with varying range of features. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
+http://cat.gamescribes.com/ - This is a CAT (Computer-Assisted Translation) application I was responsible for leading and executing for a Portuguese company that did internationalization for computer games across multiple European languages. 
+
+https://lumenchristi-house.com/ - This is a Hotel reservation web application with an ERP (Enterprise Resource Planning) system behind it that I was responsible for, Front-end and parts of the back end, for managing bookings and business process in Lumen Christi House Hotel.
+
+I have over 5 years of professional experience interpreting business ideas and building modern-looking and accessible applications with varying range of features. I am experienced in front-end, back-end and cloud pipelines. I have competencies in leading, taking initiative, prioritizing and delegating tasks among team members.  
 
 My Portfolio website: https://chizaram-igolo.github.io/ (It will be getting a major redesign soon!)
 
