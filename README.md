@@ -1,8 +1,6 @@
 ### Hi there 👋 My name is Chizaram
 
-<h2 align="center">A passionate fullstack developer and programming instructor </h2>
-<p align="center">who finds immense joy in the world of software development.</p>
-
+<h2 align="center">A fullstack developer</h2>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
